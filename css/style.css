@@ -603,7 +603,7 @@ header .inner {
   background-image: url(../img/dots.png);
   background-repeat: repeat;
   position: absolute;
-  top: 110px;
+  top: 60px;
   left: 50%;
   transform: translateX(-50%);
   width: 250px;
@@ -748,6 +748,9 @@ header .inner {
 .carousel-indicators {
   position: relative;
   top: 10px;
+}
+.testimonial img {
+  height: 500px;
 }
 .carousel-indicators button {
   height: 10px !important;
