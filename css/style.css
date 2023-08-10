@@ -966,4 +966,8 @@ footer span {
 }
 
 @media screen and (max-width: 576px) {
+
+.item h5 {
+  font-size: 14px !important;
+}
 }
